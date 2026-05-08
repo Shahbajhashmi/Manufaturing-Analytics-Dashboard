@@ -57,17 +57,7 @@ Manufacturing-Analytics-Dashboard/
 
 ---
 
-## 📸 Dashboard Preview
 
-Add dashboard screenshots inside the `Screenshots` folder.
-
-Example:
-
-```markdown
-![Dashboard Preview](Screenshots/dashboard.png)
-```
-
----
 
 ## ⚙️ How to Use
 
