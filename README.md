@@ -1,108 +1,155 @@
-# 🏭 Manufacturing Analytics Dashboard
+# 🏭 Manufacturing Analysis Project
 
-## 📌 Project Overview
+**End-to-End Manufacturing KPI Analysis using SQL, Excel, Power BI & Tableau**
 
-The Manufacturing Analytics Dashboard is designed to analyze and visualize manufacturing data to improve operational efficiency and support business decision-making.  
-This dashboard provides insights into production performance, machine utilization, downtime analysis, inventory tracking, and overall manufacturing KPIs.
-
-The project helps organizations monitor manufacturing operations effectively through interactive charts, KPIs, and data-driven insights.
+Transforming raw manufacturing data into actionable business insights through data cleaning, ETL, KPI analysis, and interactive dashboards.
 
 ---
 
-## 🚀 Features
+## 📌 Project Overview
 
-- Interactive Manufacturing Dashboard
-- Production Performance Analysis
-- Machine Efficiency Monitoring
-- Downtime Analysis
-- Quality & Defect Tracking
-- Inventory Monitoring
-- KPI Visualization
-- Dynamic Filters & Drill-down Analysis
+This project analyzes manufacturing operations data to monitor production performance, operational efficiency, downtime, and quality metrics. The objective is to convert raw production data into meaningful insights that help identify bottlenecks and support data-driven decision-making.
+
+The complete analytics workflow followed:
+
+**Raw Data → SQL (ETL) → Excel (Data Cleaning & Validation) → Power BI & Tableau (Interactive Dashboards) → Business Insights**
+
+---
+
+## 🎯 Objectives
+
+* Clean and transform raw manufacturing datasets into analysis-ready data.
+* Monitor key manufacturing KPIs through interactive dashboards.
+* Analyze production efficiency and operational performance.
+* Identify downtime patterns and production bottlenecks.
+* Provide actionable recommendations to improve manufacturing efficiency.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- Tableau / Power BI
-- Microsoft Excel
-- SQL
-- Data Visualization
-- Business Intelligence Concepts
+| Tool                | Purpose                                             |
+| ------------------- | --------------------------------------------------- |
+| **SQL**             | Data extraction, cleaning, transformation (ETL)     |
+| **Microsoft Excel** | Data cleaning, validation, Pivot Tables, analysis   |
+| **Power BI**        | Interactive dashboard development, DAX calculations |
+| **Tableau**         | Data visualization and KPI reporting                |
+
+---
+
+## 📂 Repository Structure
+
+```text
+Manufacturing-Analysis-Project/
+│
+├── Dataset/              # Raw manufacturing dataset
+├── SQL/                  # SQL scripts for ETL and analysis
+├── Excel/                # Cleaned dataset & Pivot analysis
+├── PowerBI/              # Power BI dashboard (.pbix) & screenshots
+├── Tableau/              # Tableau workbook & dashboard screenshots
+├── Presentation/         # Project presentation (PPT)
+├── Images/               # Dashboard screenshots
+└── README.md
+```
 
 ---
 
 ## 📊 Key KPIs
 
-- Total Production
-- Production Efficiency
-- Machine Downtime
-- Defect Rate
-- Inventory Level
-- Overall Equipment Effectiveness (OEE)
+* 📈 Production Output
+* ⚙️ Production Efficiency
+* ⏱️ Machine Downtime
+* 🚧 Process Bottlenecks
+* ✅ Quality & Defect Rate
+* 📦 Manufacturing Performance
+* 📉 Production Trend Analysis
 
 ---
 
-## 📂 Project Structure
+## 🔍 Project Workflow
 
-```bash
-Manufacturing-Analytics-Dashboard/
-│
-├── Dataset/
-├── Dashboard/
-├── Screenshots/
-├── README.md
-└── Project_Report.pdf
-```
+### 1️⃣ Data Collection
 
----
+* Imported raw manufacturing operational data.
 
+### 2️⃣ Data Cleaning & ETL
 
+* Removed duplicate records.
+* Handled missing values.
+* Standardized data formats.
+* Performed SQL-based transformations.
+* Validated cleaned data using Excel.
 
-## ⚙️ How to Use
+### 3️⃣ Data Analysis
 
-1. Clone the repository
+* Calculated production KPIs.
+* Measured operational efficiency.
+* Analyzed downtime and quality trends.
+* Compared production performance across categories.
 
-```bash
-git clone https://github.com/your-username/Manufacturing-Analytics-Dashboard.git
-```
+### 4️⃣ Dashboard Development
 
-2. Open the dashboard file in Tableau or Power BI
+Developed interactive dashboards in **Power BI** and **Tableau** featuring:
 
-3. Connect the dataset if required
+* KPI Cards
+* Trend Analysis
+* Interactive Filters & Slicers
+* Production Performance Dashboard
+* Quality Analysis
+* Downtime Analysis
 
-4. Explore the dashboard using filters and visualizations
+### 5️⃣ Business Insights
 
----
-
-## 📈 Business Insights
-
-- Identifies production bottlenecks
-- Helps reduce machine downtime
-- Tracks manufacturing efficiency
-- Supports data-driven decision-making
-- Improves operational visibility
+Generated meaningful insights and recommendations for improving manufacturing performance and operational efficiency.
 
 ---
 
-## 🎯 Future Enhancements
+## 💡 Key Insights
 
-- Real-time data integration
-- Predictive analytics
-- Machine learning insights
-- Automated reporting system
+* Identified major production bottlenecks affecting operational efficiency.
+* Tracked production output and downtime trends over time.
+* Improved KPI visibility through interactive dashboards.
+* Enabled faster, data-driven decision-making with automated reporting.
 
 ---
 
-## 👨‍💻 Author
+## 📷 Dashboard Preview
+
+> *(Add screenshots of your Power BI and Tableau dashboards here.)*
+
+---
+
+## 🚀 Skills Demonstrated
+
+* SQL (ETL & Data Analysis)
+* Data Cleaning
+* Microsoft Excel
+* Power BI
+* Tableau
+* DAX
+* KPI Dashboard Development
+* Data Visualization
+* Business Analytics
+* Manufacturing Analytics
+
+---
+
+## 📬 Contact
 
 **Shahbaj Hashmi**
 
-- BCA Graduate
-- Aspiring Data Analyst & BI Developer
+📧 Email: **[your-email@example.com](hashmishahbaj233@gmail.com)**
+
+🔗 LinkedIn: **[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shahbajhashmi/)**
+
+💻 GitHub: **[https://github.com/your-username](https://github.com/Shahbajhashmi)**
 
 ---
 
-## ⭐ Support
+⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
 
-If you like this project, please give it a ⭐ on GitHub.
+---
+
+### About This Project
+
+This project is part of my **Data Analyst Portfolio**, demonstrating end-to-end skills in **SQL, Excel, Power BI, Tableau, ETL, KPI reporting, data visualization, and business analytics** through a real-world manufacturing analysis case study.
